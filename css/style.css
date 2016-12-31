@@ -1,0 +1,15 @@
+body {
+  background-color: grey;
+}
+
+#weather { 
+  width: 250px;
+  height: 100px;
+  background-color: white;
+  margin-top: 10px;
+  margin-right: auto;
+  margin-left: auto;
+  text-align: center;
+  padding: 5px 175px 175px 175px;
+  border-radius: 50px
+}
